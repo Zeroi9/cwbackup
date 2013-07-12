@@ -1,0 +1,12 @@
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\bin\Debug\Cubeworld Character Backup.exe.config
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\bin\Debug\Cubeworld Character Backup.exe
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\bin\Debug\Cubeworld Character Backup.pdb
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\obj\Debug\Cubeworld Character Backup.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\obj\Debug\Cubeworld_Character_Backup.Form1.resources
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\obj\Debug\Cubeworld_Character_Backup.Properties.Resources.resources
+c:\users\william\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\obj\Debug\Cubeworld Character Backup.csproj.GenerateResource.Cache
+C:\Users\William\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\bin\Release\Cubeworld Backup.exe.config
+C:\Users\William\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\bin\Release\Cubeworld Backup.exe
+C:\Users\William\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\bin\Release\Cubeworld Backup.pdb
+C:\Users\William\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\obj\Debug\Cubeworld Backup.exe
+C:\Users\William\documents\visual studio 2012\Projects\Cubeworld Character Backup\Cubeworld Character Backup\obj\Debug\Cubeworld Backup.pdb
